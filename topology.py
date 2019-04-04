@@ -33,7 +33,7 @@ class fatTreeTopo(Topo):
         s11 = self.addSwitch('s11', cls=OVSKernelSwitch)
         s21 = self.addSwitch('s21', cls=OVSKernelSwitch)
         s22 = self.addSwitch('s22', cls=OVSKernelSwitch)
-        s2 = self.addSwitch('s2', cls=OVSKernelSwitch)ajhdjad
+        s2 = self.addSwitch('s2', cls=OVSKernelSwitch)ajhdjadasdfhgasdf
 
         #Add links
         self.addLink(h1, s1)
